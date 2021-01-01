@@ -28,6 +28,7 @@ namespace Classignment4
             string value = input.Replace("1111", "");
 
             Console.WriteLine(" new value after replace:" + value);
+            int a = 1;
         }
         static void subString()
         {
